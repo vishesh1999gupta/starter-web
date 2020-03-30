@@ -1,4 +1,5 @@
-##
+#this is git project used as a sample project
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
