@@ -1,4 +1,4 @@
-#this is git project used as a sample project
+# this is a git project used as a sample project
 
 # Starter Web Repo
 
