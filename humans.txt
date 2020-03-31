@@ -8,7 +8,7 @@
 # THANKS
 
     <name> Vishesh Gupta
-
+         vishesh1999gupta@gmail.com
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
