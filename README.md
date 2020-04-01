@@ -10,3 +10,6 @@ lot of lectures coming
 
 Sample website with plenty of files for demos
 we have done a lot of work
+
+##GIT comparisons
+adding new lectures of stash.
