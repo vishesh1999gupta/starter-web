@@ -2,11 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
+    
 
     <name> -- <role> -- <twitter>
+	vishesh gupta
 
 # THANKS
-
+     TO all ,my students
     <name> Vishesh Gupta
          vishesh1999gupta@gmail.com
 # TECHNOLOGY COLOPHON
