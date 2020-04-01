@@ -6,7 +6,7 @@
     
     <name> -- <role> -- <twitter>
 	vishesh gupta
-
+     git repo manager
 # THANKS
      TO all ,my students
     <name> Vishesh Gupta
