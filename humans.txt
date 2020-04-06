@@ -19,4 +19,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr ,AJAX , ML
-
+     AWS solution architect developer
